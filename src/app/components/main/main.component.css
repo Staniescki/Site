@@ -1,0 +1,12 @@
+.img-logo {
+  width: 70%;
+}
+
+.card {
+  height: 19rem;
+}
+
+img {
+  max-height: 57%;
+  border-radius: 0.375rem;
+}
