@@ -1,0 +1,29 @@
+.btn_instagram:hover {
+  background: #fff;
+  transform: scale(1.5);
+  color: #fd5949;
+}
+
+.btn_instagram {
+  color: #fd5949;
+}
+
+.btn_facebook:hover {
+  background: #fff;
+  transform: scale(1.5);
+  color:#3B5998;
+}
+
+.btn_facebook {
+  color:#3B5998;
+}
+
+.btn_email:hover {
+  background: #fff;
+  transform: scale(1.5);
+  color: #0032ff;
+}
+
+.border-top {
+  border-color: #6d7483 !important;
+}
