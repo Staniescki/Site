@@ -27,3 +27,7 @@
 .border-top {
   border-color: #6d7483 !important;
 }
+
+a {
+  text-decoration: none;
+}
