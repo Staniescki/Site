@@ -11,6 +11,7 @@ import { ProfessoraComponent } from './components/professora/professora.componen
 import {AppRoutingModule} from "./app.routing.module";
 import { FooterPageComponent } from "./components/footer/footer-page.component"
 import {RouterModule} from '@angular/router'
+import {DepoimentosComponent} from "./components/depoimentos/depoimentos.component";
 
 // @ts-ignore
 @NgModule({
@@ -19,7 +20,8 @@ import {RouterModule} from '@angular/router'
     HeaderComponent,
     MainComponent,
     ProfessoraComponent,
-    FooterPageComponent
+    FooterPageComponent,
+    DepoimentosComponent
   ],
   imports: [
     BrowserModule,

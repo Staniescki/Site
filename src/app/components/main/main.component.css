@@ -6,6 +6,21 @@
   height: 19rem;
 }
 
+.card-lista{
+  height: 9rem !important;
+  margin: 50px 0px;
+}
+
+ul{
+  -webkit-box-shadow: 4px 4px 3px 1px rgba(230,230,230,1);
+  -moz-box-shadow: 4px 4px 3px 1px rgba(230,230,230,1);
+  box-shadow: 4px 4px 3px 1px rgba(230,230,230,1);
+}
+
+li {
+  background-color: #f0f0f0;
+}
+
 img {
   max-height: 57%;
   border-radius: 0.375rem;

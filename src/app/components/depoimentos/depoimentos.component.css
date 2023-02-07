@@ -1,0 +1,23 @@
+i {
+  font-size:xx-large;
+  color: #195aa9;
+}
+
+h2, h6  {
+  color: #318c4f;
+  font-weight: 600;
+}
+
+
+span {
+  padding-top: 15px;
+  margin-left: 5vh;
+}
+
+a{
+  text-decoration: none;
+}
+
+.card {
+  background-color: #f1f1f1;
+}
