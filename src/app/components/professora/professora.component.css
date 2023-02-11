@@ -50,3 +50,8 @@ span {
 a{
   text-decoration: none;
 }
+
+.btn-voltar {
+  max-width: 100vw;
+}
+
